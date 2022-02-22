@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567775722 source:e:\c#\plant\main.c
+	<stdio.h>
+	<stdlib.h>
+

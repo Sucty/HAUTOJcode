@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576674755 source:e:\c#\计算n个整数的和\main.c
+	<stdio.h>
+	<stdlib.h>
+

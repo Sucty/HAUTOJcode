@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567674772 source:e:\c#\a+b problem\main.c
+	<stdio.h>
+	<stdlib.h>
+
